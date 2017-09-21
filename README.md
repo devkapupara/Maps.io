@@ -1,5 +1,5 @@
 # Maps.io
-> Java Code that takes in two or more locations and outputs certain data as per the user's requests.
+Java Code that takes in two or more locations and outputs certain data as per the user's requests.
 The code can output latitude-longitude, directions between all entered locations, total distance and total time for the journey.
 
 ## Getting started
@@ -7,9 +7,11 @@ The code can output latitude-longitude, directions between all entered locations
 
 Run the .jar file from the terminal 
 
-> -jar MapsIO.jar. 
+```
+-jar MapsIO.jar. 
+```
 
-Make sure you are in the directory where you downloaded the jar file.
+Note: Make sure you are in the directory where you downloaded the jar file.
 
 For test locations, you can try the following two locations. 
 
@@ -21,18 +23,16 @@ Example:
 
 If you wish to enter your own, please make sure that you enter specific address with no typographical errors. 
 
-## About
-Intended for personal use only
+## Acknowledgement
+Maps.io was created by [Dev Kapupara](https://github.com/itchiTriggah).
 
 Directions Courtesy of MapQuest
 
 Map Data Copyright OpenStreetMap Contributors
 
-## Acknowledgement
-Maps.io was created by [Dev Kapupara](https://github.com/itchiTriggah).
-
 ## License
+Intended for personal use only
 . . .
 
-## BUGS
-This is stilla work in progress and it is being worked upon. If you encounter an bugs, please email me at @itchiTriggah@gmail.com
+## Bugs
+This is stilla work in progress and it is being worked upon. If you encounter an bugs, please email me at <itchiTriggah@gmail.com>
