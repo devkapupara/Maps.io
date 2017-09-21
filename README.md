@@ -32,6 +32,7 @@ Map Data Copyright OpenStreetMap Contributors
 
 ## License
 Intended for personal use only
+
 . . .
 
 ## Bugs
