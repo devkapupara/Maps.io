@@ -8,7 +8,7 @@ The code can output latitude-longitude, directions between all entered locations
 Run the .jar file from the terminal 
 
 ```
--jar MapsIO.jar. 
+-jar MapsIO.jar
 ```
 
 Note: Make sure you are in the directory where you downloaded the jar file.
