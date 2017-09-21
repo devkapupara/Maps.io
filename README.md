@@ -7,5 +7,5 @@ Intended for personal use only.
 # For test locations, you can try the following two locations. If you wish to enter your own, please make sure that you enter specific address with no typographical errors. #
   4533 Campus Dr, Irvine, CA
 	1111 Figueroa St, Los Angeles, CA
-#-----------------BUGS------------------
+# -----------------BUGS------------------
 This is stilla work in progress and it is being worked upon. If you encounter an bugs, please email me at @itchiTriggah@gmail.com
