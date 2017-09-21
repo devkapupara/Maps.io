@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MapsFinal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MapsFinal_jar</output-path>
+    <root id="archive" name="MapsFinal.jar">
+      <element id="module-output" name="MapsFinal" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/json-20170516.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
